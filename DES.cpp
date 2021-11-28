@@ -224,7 +224,7 @@ int main()
 	
 	string pt, key;
 	
-
+    
 	pt = "123456ABCD132536";
 	key = "AABB09182736CCDD";
 	
