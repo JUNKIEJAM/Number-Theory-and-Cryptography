@@ -111,6 +111,9 @@ int main()
 {
     vector<int> e; 
     vector<int> d; 
+    string message;
+    cout<<"Enter the message: ";
+    cin>>message;
     
     cout << "Plain text: " << message << endl;
     int len = strlen(message.c_str());
