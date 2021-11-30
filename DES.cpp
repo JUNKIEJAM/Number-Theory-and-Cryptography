@@ -3,7 +3,7 @@ using namespace std;
 string hex2bin(string s)
 {
 
-	unordered_map<char, string> mp;
+	unordered_map<char, string> mp;333
 	mp['0'] = "0000";
 	mp['1'] = "0001";
 	mp['2'] = "0010";

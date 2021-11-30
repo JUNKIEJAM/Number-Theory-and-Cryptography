@@ -101,6 +101,7 @@ void fillKeyMatrix(vector<vector<char>> &key, string keyword){
 }
 
 int main(){
+    
     vector<vector<char>> key(5, vector<char>(5));
     fillKeyMatrix(key, "gravityfalls");
     for(int i=0; i<5; i++)
